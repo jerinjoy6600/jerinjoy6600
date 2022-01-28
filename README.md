@@ -1,0 +1,5 @@
+- 👋 Hi, I’m jerin
+- 👀 I’m interested in MERN
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on web development
+- 📫 reach me at JERINJOY6600@GMAIL.COM
